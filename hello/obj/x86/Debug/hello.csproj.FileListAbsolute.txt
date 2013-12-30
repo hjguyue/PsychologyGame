@@ -1,0 +1,48 @@
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\bin\Debug\hello.exe
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\bin\Debug\hello.pdb
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\hello.Form1.resources
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\hello.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\hello.exe
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\hello.pdb
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\bin\Debug\Interop.WMPLib.dll
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\bin\Debug\AxInterop.WMPLib.dll
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\harry\documents\visual studio 2010\Projects\Test1\hello\obj\x86\Debug\hello.csproj.ResolveComReference.cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\hello.csproj.ResolveComReference.cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\hello.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\hello.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\hello.Form1.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\bin\Debug\hello.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\bin\Debug\hello.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\bin\Debug\Interop.WMPLib.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1\hello\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\hello.csproj.ResolveComReference.cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\hello.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\hello.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\bin\Debug\hello.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\bin\Debug\hello.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\bin\Debug\Interop.WMPLib.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\hello.Form1.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Project 1 - 副本\hello\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
